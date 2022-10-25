@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "stock": "1",
+        "categoria":"react",
+        "nombre": "Ciberseguridad como fundamento supremo en la organizacion de tu empresa",
+        "autor": "u$s 150",
+        "calificacion": "9/10",
+        "valor": "u$s 100 mensuales",
+        "img": "https://newsweekespanol.com/wp-content/uploads/2021/07/AdobeStock_441062347-768x294.jpeg",
+        "reseña": "Ciberseguridad como fundamento supremo en la organizacion de tu empresa"
+    },
+    {
+        "id": "2",
+        "stock": "5",
+        "categoria":"react",
+        "nombre": "Cibervigilancia de las actividades sospechosas que acechan tu empresa",
+        "autor": "u$s 200",
+        "calificacion": "10/10",
+        "valor": "u$s 150 mensuales",
+        "img": "https://cdn.t21.pe/wp-content/uploads/2022/03/ntt-data-cibervigilancia-regional.jpg",
+        "reseña": "Cibervigilancia de las actividades sospechosas que acechan tu empresa"
+    }
+  
+]
